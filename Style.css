@@ -1,0 +1,27 @@
+.heading{
+    font-family: 'Fredoka One', cursive;
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+body{
+    background-color:rebeccapurple;
+}
+.Objects_name{
+   color:black; 
+   font-family: 'Slabo 27px', serif;
+   font-size: 25px;
+   line-height: 1;
+   padding-left: 300px;
+   padding-right: 300px;
+   font-weight: bold;
+}
+label{
+    font-size: 18px;
+    color: white;
+}
+#camera{
+    border: 3px dotted black;
+    width:350px;
+    height:300px;
+}
